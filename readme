@@ -1,0 +1,9 @@
+instale o requirements
+
+preencha os parametros abaixo
+AZURE_OPENAI_API_KEY = ""
+AZURE_OPENAI_ENDPOINT = ""
+URL_TO_TRANSLATE=""
+TARGET_LANGUAGE=""
+
+execute com python main.py
